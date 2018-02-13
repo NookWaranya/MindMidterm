@@ -18,4 +18,7 @@ public class CalculateFragment extends Fragment{
         View view = inflater.inflate(R.layout.fragment_calculate, container, false);
         return view;
     }
+
+
+
 }
