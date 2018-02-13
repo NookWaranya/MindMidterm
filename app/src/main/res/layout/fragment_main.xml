@@ -18,14 +18,14 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_margin="@dimen/margin"
-            android:src="@drawable/logo" />
+            android:src="@drawable/logo2" />
 
         <!--Name-->
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="Pronchanok Boonparsert"
+            android:text="Waranya Suayngam"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="@dimen/h1"
             android:textStyle="bold" />
@@ -35,7 +35,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="571-00-0501"
+            android:text="571-00-0044"
             android:textColor="@color/colorPrimaryDark"
             android:textSize="@dimen/h1"
             android:textStyle="bold" />
