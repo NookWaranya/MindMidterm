@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MindMidterm.iml" filepath="$PROJECT_DIR$/MindMidterm.iml" />
+      <module fileurl="file://C:\Users\Admin\AndroidStudioProjects\NookMidterm\MindMidterm.iml" filepath="C:\Users\Admin\AndroidStudioProjects\NookMidterm\MindMidterm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NookMidterm.iml" filepath="$PROJECT_DIR$/NookMidterm.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Admin\AndroidStudioProjects\NookMidterm\app\app.iml" filepath="C:\Users\Admin\AndroidStudioProjects\NookMidterm\app\app.iml" />
     </modules>
   </component>
 </project>
